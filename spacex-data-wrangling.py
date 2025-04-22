@@ -26,7 +26,7 @@ import numpy as np
 
 # Data Analysis - Load Space X dataset, from last section
 
-df=pd.read_csv("c://kodilla/Data_Science/Data_Vizualization/dataset_part_1.csv")
+df=pd.read_csv("dataset_part_1.csv")
 print(df.head(10))
 
 # Identify and calculate the percentage of the missing values in each attribute
